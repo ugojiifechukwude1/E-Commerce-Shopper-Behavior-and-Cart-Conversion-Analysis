@@ -1,8 +1,16 @@
 # E-Commerce-Shopper-Behavior-and-Cart-Conversion-Analysis
 ## Project Overview
-This project showcases an end-to-end Excel data analysis workflow, from raw data preparation to the development of an interactive dashboard. The work focuses on cleaning and structuring data, analyzing key performance indicators using pivot tables, and presenting insights through clear and intuitive visuals.
+This case study examines shopper behavior in an e-commerce environment to identify the main drivers of cart abandonment and propose actionable solutions that improve checkout completion. The analysis is supported by a solution oriented Excel dashboard designed to highlight key insights and enable quick, data driven decision making.
 
 The dashboard is designed to support informed decision-making by allowing users to explore trends, compare performance across categories, and identify areas of strength and concern. The project highlights strong analytical thinking, attention to detail, and the practical use of Excel for business and operational analysis.
+
+The dataset consists of 602 unique users and captures information across four main dimensions:
+Dimensions analyzed: 
+o	User Demographics (age category, gender)
+o	Cart outcomes (completed vs. abandoned)
+o	Personalized recommendation exposure
+o	Cart abandonment reasons
+
 
 ## Objectives
 * Transform raw data into a structured, analysis-ready format.

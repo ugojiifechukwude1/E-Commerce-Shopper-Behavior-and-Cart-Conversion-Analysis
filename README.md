@@ -53,42 +53,23 @@ The Excel file is organized into the following sheets:
    * Includes charts, KPIs, and slicers for easy exploration.
    * Designed to be user-friendly and decision-focused
 
-🔄 Step-by-Step Analysis Process
-
-Data Understanding
-
-Reviewed the raw dataset to understand structure, variables, and quality issues
-
-Data Cleaning & Preparation
-
-Created a working copy of the data
-
-Standardized formats and resolved inconsistencies
-
-Ensured the data was analysis-ready
-
-Exploratory Analysis
-
-Used pivot tables to summarize key metrics
-
-Identified trends, patterns, and outliers
-
-Insight Generation
-
-Compared performance across relevant dimensions
-
-Focused on metrics that matter for decision-making
-
-Dashboard Development
-
-Built charts and visuals from pivot tables
-
-Added slicers for interactivity
-
-Organized visuals into a clear, logical layout
-
-Validation
-
-Cross-checked dashboard results against pivot tables
-
-Ensured accuracy and consistency across the workbook
+## 🔄 Step-by-Step Analysis Process
+1. Data Understanding
+   * Reviewed the raw dataset to understand structure, variables, and quality issues
+2. Data Cleaning & Preparation
+   * Created a working copy of the data.
+   * Standardized formats and resolved inconsistencies.
+   * Ensured the data was analysis-ready
+3. Exploratory Analysis
+   * Used pivot tables to summarize key metrics.
+   * Identified trends, patterns, and outliers.
+4. Insight Generation
+   * Compared performance across relevant dimensions.
+   * Focused on metrics that matter for decision-making
+5. Dashboard Development
+   * Built charts and visuals from pivot tables.
+   * Added slicers for interactivity.
+   * Organized visuals into a clear, logical layout
+6. Validation
+   * Cross-checked dashboard results against pivot tables.
+   * Ensured accuracy and consistency across the workbook

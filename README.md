@@ -72,4 +72,8 @@ The Excel file is organized into the following sheets:
    * Organized visuals into a clear, logical layout
 6. Validation
    * Cross-checked dashboard results against pivot tables.
-   * Ensured accuracy and consistency across the workbook
+   * Ensured accuracy and consistency across the workbook.
+  
+## Dashboard
+![E-Commerce Shopper Behavior and Cart Conversion Analysis Dashboard - Ugoji Ifechukwude Faith](https://github.com/user-attachments/assets/bfb149bd-3e2a-48a8-8953-170abb2e5e80)
+

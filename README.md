@@ -29,3 +29,66 @@ The analysis was guided by practical business and operational questions such as:
 * Excel Formulas and Functions.
 * Slicers and Filters for interactivity
 * Dashboard layout and visual design principles
+
+## 📂 Workbook Structure
+The Excel file is organized into the following sheets:
+ 1. Raw_Data
+    * Contains the original dataset as received.
+    * No modifications made to preserve data integrity
+
+2. Working_Data
+   * Cleaned and transformed version of the raw data.
+   * Tasks performed include:
+     * Removing blanks and duplicates.
+     * Handling missing or inconsistent values.
+     * Formatting columns correctly.
+
+3. Pivot Tables
+   * Summary tables built from the working data.
+   * Used to analyze key metrics across different dimensions.
+   * Serves as the data source for charts and visuals.
+
+4. Dashboard Template
+   * Interactive dashboard presenting key insights.
+   * Includes charts, KPIs, and slicers for easy exploration.
+   * Designed to be user-friendly and decision-focused
+
+🔄 Step-by-Step Analysis Process
+
+Data Understanding
+
+Reviewed the raw dataset to understand structure, variables, and quality issues
+
+Data Cleaning & Preparation
+
+Created a working copy of the data
+
+Standardized formats and resolved inconsistencies
+
+Ensured the data was analysis-ready
+
+Exploratory Analysis
+
+Used pivot tables to summarize key metrics
+
+Identified trends, patterns, and outliers
+
+Insight Generation
+
+Compared performance across relevant dimensions
+
+Focused on metrics that matter for decision-making
+
+Dashboard Development
+
+Built charts and visuals from pivot tables
+
+Added slicers for interactivity
+
+Organized visuals into a clear, logical layout
+
+Validation
+
+Cross-checked dashboard results against pivot tables
+
+Ensured accuracy and consistency across the workbook

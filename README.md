@@ -12,3 +12,20 @@ The dashboard is designed to support informed decision-making by allowing users 
 
 ## Dataset
 <a href="https://github.com/ugojiifechukwude1/E-Commerce-Shopper-Behavior-and-Cart-Conversion-Analysis">E-commerce Shopper Behavior and Cart Conversion Analysis
+
+## Key Business Questions Answered
+The analysis was guided by practical business and operational questions such as:
+* What are the overall performance trends over time?
+* Which gender contributed the most to results?
+* Where are the Top reason for cart abandonment?
+* Are there noticeable patterns or outliers in the data?
+* How do key metrics compare across different dimensions (time, category, region, etc.)?
+* What insights can support better planning and decision-making?
+
+## 🛠 Tools & Techniques Used
+* Microsoft Excel.
+* Data Cleaning & Validation.
+* Pivot Tables & Pivot Charts.
+* Excel Formulas and Functions.
+* Slicers and Filters for interactivity
+* Dashboard layout and visual design principles

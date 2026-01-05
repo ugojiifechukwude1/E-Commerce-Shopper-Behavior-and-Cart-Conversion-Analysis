@@ -6,13 +6,13 @@ The dashboard is designed to support informed decision-making by allowing users 
 
 The dataset consists of 602 unique users and captures information across four main dimensions:
 Dimensions analyzed: 
-o	User Demographics (age category, gender)
-o	Cart outcomes (completed vs. abandoned)
-o	Personalized recommendation exposure
-o	Cart abandonment reasons
+ * User Demographics (age category, gender)
+ * Cart outcomes (completed vs. abandoned)
+ * Personalized recommendation exposure
+ * Cart abandonment reasons
 
 
-## Objectives
+## Objectives of the study
 * Transform raw data into a structured, analysis-ready format.
 * Analyze trends and key performance indicators using Excel tools.
 * Build pivot tables to summarize and segment data.

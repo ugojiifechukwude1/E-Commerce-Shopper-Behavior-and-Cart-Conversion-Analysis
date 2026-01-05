@@ -18,7 +18,7 @@ Dimensions analyzed:
 * Build pivot tables to summarize and segment data.
 * Design an interactive dashboard for clear and actionable insights
 
-## Dataset
+## Dataset used
 <a href="https://github.com/ugojiifechukwude1/E-Commerce-Shopper-Behavior-and-Cart-Conversion-Analysis">E-commerce Shopper Behavior and Cart Conversion Analysis
 
 ## Key Business Questions Answered
